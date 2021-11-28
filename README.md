@@ -17,4 +17,4 @@ Just you have to copy to your own $PATH, it can be something like: $HOME/.cabal/
 cp token-metadata-creator $HOME/.cabal/bin/
 ```
 
-And the you can follow the normal steps: [cardano-token-registry Wiki](https://github.com/cardano-foundation/cardano-token-registry/wiki/How-to-prepare-an-entry-for-the-registry-%28NA-policy-script%29)
+And then you can follow the normal steps: [cardano-token-registry Wiki](https://github.com/cardano-foundation/cardano-token-registry/wiki/How-to-prepare-an-entry-for-the-registry-%28NA-policy-script%29)
