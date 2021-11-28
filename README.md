@@ -4,7 +4,7 @@ Dynamic Binares of token-metadata-creator for Raspberry Pi (ARM CPUs) built with
 
 ##
 
-***Token-metadata-creator v0.3.0.0 Dynamic Build (Ubuntu 20.04 and above. Requires libsodium.)***
+***Token-metadata-creator v0.3.0.0 Dynamic Build (Ubuntu 20.04 and above)***
 
 ```
 wget https://github.com/QuixoteSystems/token-metadata-creator/raw/main/token-metadata-creator
